@@ -1,3 +1,7 @@
+# NOTICE
+
+This module is now **superseded** by [strong-oracle](https://github.com/strongloop/strong-oracle).
+
 # Install
 
 You need to download and install [Oracle instant client](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html) from following links:
